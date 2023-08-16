@@ -1,0 +1,63 @@
+C...M..  Comandos con las teclas para Visual Studio Code 
+
+1. Ctrl + N            Abrir un nuevo archivo.
+
+2. Ctrl + O            Abrir un archivo existente.
+
+3. Ctrl + S:           Guardar el archivo actual.
+
+4. Ctrl + Shift + S:   Guardar todos los archivos abiertos.
+
+5. Ctrl + C            Copiar el texto seleccionado.
+
+6. Ctrl + X            Cortar el texto seleccionado.
+
+7. Ctrl + V            Pegar el texto en el portapapeles.
+
+8. Ctrl + Z            Deshacer la última acción.
+
+9. Ctrl + Y :          Rehacer la última acción deshecha.
+ 
+10. Ctrl + F:          Abrir el cuadro de búsqueda.
+
+11. Ctrl + H :         Abrir el cuadro de búsqueda y reemplazo.
+
+12. Ctrl + Shift + F : Buscar en todos los archivos del proyecto.
+
+13. Ctrl + P           Abrir el cuadro de búsqueda rápida para abrir archivos.
+
+14. Ctrl + `           Mostrar o ocultar la terminal integrada.
+
+15. Ctrl + Shift + `   Crear una nueva terminal dividida.
+
+16. Ctrl + Shift + P   Abrir la paleta de comandos.
+
+17. Ctrl + Shift + N   Abrir una nueva ventana de VS Code.
+
+18. Ctrl + Tab         Cambiar entre pestañas abiertas.
+
+19. Ctrl + Shift + Tab  Cambiar a la pestaña anterior.
+
+20. Ctrl + 1, Ctrl + 2. Ctrl + 9    Cambiar a la pestaña numerada.
+
+21. Ctrl + F4          Cerrar la pestaña actual.
+
+22. Ctrl + K + F       Formatear el documento.
+
+23. Ctrl + /           Alternar comentarios en línea.
+
+24. Ctrl + Shift + /   Alternar comentarios en bloque.
+
+25. Alt + Shift + A    Alternar comentario en bloque para varias líneas seleccionadas.
+
+26..Alt + Click        Insertar varios cursos para editar varias ubicaciones a la vez.
+
+27. Ctrl + Shift + L   Seleccionar todas las ocurrencias de la selección actual.
+
+28. F12                Ir a la definición de una variable o función.
+
+29. Ctrl + F12         Mostrar todas las referencias a la variable o función.
+
+30. Ctrl + B           Mostrar u ocultar el panel lateral.
+
+
