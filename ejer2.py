@@ -27,15 +27,15 @@ class Jefe(Persona):
 
 
 roberto = Empleado("Marcos",17,"Peruano","Ingeniero de Sistemas",9000)
-# roberto.hablar()
+roberto.hablar()
 
 jorge = Estudiante("Jorge",34,"USA",20,"Valle grande")
 
 omar = Jefe("Omar",20,"Peruano","TWPOOY",20000)
 
-# print(f'El empleado {roberto.nombre} trabaja en {roberto.trabajo} y su salario es de {roberto.salario}')
+print(f'El empleado {roberto.nombre} trabaja en {roberto.trabajo} y su salario es de {roberto.salario}')
 
-# print(f'El estudiante {jorge.nombre} esta estudiando en {jorge.universidad} sus notas son de {jorge.motas} el es hijo de {omar.nombre} que a la vez {omar.nombre} es el jefe de {roberto.nombre} en la empresa {omar.empresa}')
+print(f'El estudiante {jorge.nombre} esta estudiando en {jorge.universidad} sus notas son de {jorge.motas} el es hijo de {omar.nombre} que a la vez {omar.nombre} es el jefe de {roberto.nombre} en la empresa {omar.empresa}')
 
-# print(omar.nombre)
+print(omar.nombre)
 

@@ -1,6 +1,6 @@
 class Persona:
-    def __init__(self,nombre, edad, nacionalidad):
-        self.nombre = nombre
+    def __init__(self,nombre, edad, nacionalidad): # el self va aser referncia asi mismo y con parametros que nosotros le iremos a pasar
+        self.nombre = nombre  # definiendo que el self.nombre va aser como yo voy a acceder a el nombre y asi con cada uno de los demas
         self.edad = edad
         self.nacionalidad = nacionalidad
 
@@ -8,7 +8,7 @@ class Persona:
         print(f"Hola mi funcion es hablar ... yo soy {self.nombre}")
 
 
-class Empleado(Persona):
+class Empleado(Persona):  # creamos una clase empleado heredara de Persona que seria Persona la clase padre -> Empleado hereda de la clase Persona
     def __init__(self,nombre,edad,nacionalidad,trabajo,salario):
         super().__init__(nombre,edad,nacionalidad)
         self.trabajo = trabajo
